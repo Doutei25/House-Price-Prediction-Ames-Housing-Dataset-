@@ -1,0 +1,26 @@
+house-price-prediction/
+│
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+│   ├── data_description.txt
+│   └── sample_submission.csv
+│
+├── notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_feature_engineering.ipynb
+│   ├── 04_modeling.ipynb
+│   └── 05_evaluation_and_submission.ipynb
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── modeling.py
+│   └── utils.py
+│
+├── submission/
+│   └── submission.csv
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
