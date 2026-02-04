@@ -1,0 +1,3 @@
+Predict the SalePrice of each house in the test dataset using advanced regression techniques and proper preprocessing.
+Evaluation Metric:
+RMSE between log(SalePrice) and log(predicted SalePrice)
