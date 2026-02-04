@@ -1,0 +1,3 @@
+This project predicts residential house sale prices using the Ames Housing dataset, a rich dataset with 79 explanatory variables describing nearly every aspect of a home. The goal is to build a robust regression model that minimizes Root Mean Squared Error (RMSE) on log-transformed prices, as evaluated in the Kaggle competition House Prices: Advanced Regression Techniques.
+
+The project follows an end-to-end data science workflow, from data loading and cleaning to feature engineering, modeling, evaluation, and final submission.
