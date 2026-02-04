@@ -1,0 +1,7 @@
+Proper handling of missing values significantly improves model stability
+
+Log transformation is critical for price prediction problems
+
+Pipeline-based preprocessing prevents train–test leakage
+
+Gradient boosting models perform exceptionally well on structured tabular data
